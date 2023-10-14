@@ -1,0 +1,48 @@
+.fondo{
+    background-image: url("../img/Fondo01.jpg");
+    background-position: center;
+    height:100vh;
+    background-size: cover;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+
+
+}
+
+
+.central{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.logo{
+    height: 160px;
+    width:auto;
+    
+
+}
+
+.redes{
+    margin-top: 30px;
+    margin-bottom: 130px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.redes img{
+    height:40px;
+    width:auto;
+}
+
+.chicas{
+
+}
+
+.chicas img{
+    height: auto;
+    width: 300px;
+}
